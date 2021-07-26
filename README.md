@@ -1,2 +1,9 @@
-# cite-1
- created using the layout course
+# Abito
+Учебный проект
+
+### Технологии в проекте
+- HTML
+- CSS
+- JavaScript
+- Normalize
+- Fancybox
