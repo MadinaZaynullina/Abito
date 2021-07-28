@@ -315,6 +315,6 @@ body{
     display: block;
 }
 .page-title{
-    margin-top: 1;
+    margin-top: 0;
     margin-bottom: 25px;
 }
